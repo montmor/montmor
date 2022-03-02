@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div>
+  <img width='290px' src="https://github-readme-stats.vercel.app/api/top-langs?username=montmor&show_icons=true&locale=en&layout=compact" alt="montmor" />
+  <img width='350px' src="https://github-readme-streak-stats.herokuapp.com/?user=montmor&" alt="montmor" />
+  <img width='350px' src="https://github-readme-stats.vercel.app/api?username=montmor&show_icons=true&locale=en" alt="montmor" />
+</div>
 
 <!--
 **montmor/montmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
