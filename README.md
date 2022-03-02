@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img width='210px' src="https://github-readme-stats.vercel.app/api/top-langs?username=montmor&show_icons=true&locale=en&layout=compact" alt="montmor" />
+  <img width='208px' src="https://github-readme-stats.vercel.app/api/top-langs?username=montmor&show_icons=true&locale=en&layout=compact" alt="montmor" />
   <img width='250px' src="https://github-readme-streak-stats.herokuapp.com/?user=montmor&" alt="montmor" />
   <img width='250px' src="https://github-readme-stats.vercel.app/api?username=montmor&show_icons=true&locale=en" alt="montmor" />
 </div>
