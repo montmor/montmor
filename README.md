@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
-  <img width="255px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montmor&layout=compact&langs_count=16&theme=bear" alt="montmor"/>
-  <img width='305px' src="https://github-readme-stats.vercel.app/api?username=montmor&show_icons=true&locale=en&layout=compact&langs_count=16&theme=bear" alt="montmor" />
-  <img width='305px' src="https://github-readme-streak-stats.herokuapp.com/?user=montmor&layout=compact&langs_count=16&theme=bear" alt="montmor" />
+  <img width="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montmor&layout=compact&langs_count=16&theme=bear" alt="montmor"/>
+  <img width='295px' src="https://github-readme-stats.vercel.app/api?username=montmor&show_icons=true&locale=en&layout=compact&langs_count=16&theme=bear" alt="montmor" />
+  <img width='295px' src="https://github-readme-streak-stats.herokuapp.com/?user=montmor&layout=compact&langs_count=16&theme=bear" alt="montmor" />
 </div>
 
 <!--
