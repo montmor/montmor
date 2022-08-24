@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm André.
+
 <div align="center">
+  
+  <br />
+  
   <img width="245px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montmor&layout=compact&langs_count=16&theme=bear" alt="montmor"/>
   <img width='295px' src="https://github-readme-stats.vercel.app/api?username=montmor&show_icons=true&locale=en&layout=compact&langs_count=16&theme=bear" alt="montmor" />
   <img width='295px' src="https://github-readme-streak-stats.herokuapp.com/?user=montmor&layout=compact&langs_count=16&theme=bear" alt="montmor" />
+  
+  <br/><br/>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/montmor)
 </div>
+
+
 
 <!--
 **montmor/montmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
